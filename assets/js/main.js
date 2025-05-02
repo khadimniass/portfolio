@@ -271,3 +271,5 @@ const placeDate = document.getElementById('date-year');
 
   // Mettre à jour le contenu de l'élément avec l'id "date"
 placeDate.innerHTML = annee;
+
+
